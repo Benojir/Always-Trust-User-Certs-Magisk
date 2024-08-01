@@ -1,0 +1,7 @@
+id=alwaystrustusercerts
+name=Always Trust User Certificates (2024)
+version=v0.0.1
+versionCode=1
+author=Benojir Sultana
+description=This module adds all installed user certificates to the system trust store.
+minMagisk=2600
